@@ -1,7 +1,7 @@
 {
-  "name": "heroes",
+  "name": "home-project",
   "version": "1.0.0",
-  "description": "The tour of heroes",
+  "description": "Just a simple home startup project",
   "main": "index.js",
   "scripts": {
     "dev": "NODE_ENV=development nodemon ./bin/www",
